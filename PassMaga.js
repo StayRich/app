@@ -1,16 +1,3 @@
-https://drive.google.com/file/d/0B3-1HbdkZlB8dmVBcFh2NzNYdTA/view?usp=sharing
-
-https://drive.google.com/file/d/0B3-1HbdkZlB8dmVBcFh2NzNYdTA/view?usp=sharing
-
-
-<script src='https://cmc-11.channels.blackberry.com/bbmchannels-web-portal/public/widgets/badges/bbm_channel_pin.js?channel_pin=C002D12AD&isQROnly=false&height=150' async></script>
-
-
-https://web.facebook.com/sharer/sharer.php?app_id=776730922422337&u=https%3A%2F%2Fweb.facebook.com%2FPassMagas%2F&display=popup&ref=plugin&src=page
-
-
-https://plus.google.com/108411584818681698346
-
 //<![CDATA[
 jQuery.cookie = function (key, value, options) {
 // key and at least value given, set cookie...
